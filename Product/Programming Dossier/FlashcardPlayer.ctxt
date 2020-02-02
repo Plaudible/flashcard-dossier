@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=deck
+comment0.target=FlashcardPlayer(Deck)
+comment1.params=
+comment1.target=void\ buildButtons()
+comment2.params=
+comment2.target=void\ buildBackground()
+comment3.params=
+comment3.target=void\ buildFrame()
+comment4.params=
+comment4.target=void\ buildLabels()
+comment5.params=
+comment5.target=void\ buildTextArea()
+comment6.params=
+comment6.target=void\ closeFrame()
+comment7.params=
+comment7.target=void\ displayFrame()
+comment8.params=
+comment8.target=void\ run()
+comment9.params=newFlashcardMaker
+comment9.target=void\ registerFlashcardMaker(FlashcardMaker)
+numComments=10

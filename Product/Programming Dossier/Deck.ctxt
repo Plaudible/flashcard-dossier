@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getNumCorrect()
+comment1.params=
+comment1.target=int\ getNumWrong()
+comment2.params=val
+comment2.target=void\ setNumCorrect(int)
+comment3.params=val
+comment3.target=void\ setNumWrong(int)
+comment4.params=untranslated\ translated
+comment4.target=void\ addFlashcard(java.lang.String,\ java.lang.String)
+comment5.params=
+comment5.target=java.util.List\ getFlashcardList()
+comment6.params=
+comment6.target=void\ shuffle()
+numComments=7

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=q\ a
+comment0.target=Flashcard(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getUntranslated()
+comment2.params=
+comment2.target=java.lang.String\ getTranslated()
+comment3.params=text
+comment3.target=void\ setUntranslated(java.lang.String)
+comment4.params=text
+comment4.target=void\ setTranslated(java.lang.String)
+numComments=5
